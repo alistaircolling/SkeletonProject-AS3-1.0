@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<data>
+	<assets>
+		<section id="dogs">
+			<copy>
+				<title><![CDATA[Dogs in Fancy Dress]]></title>
+				<body><![CDATA[body copy]]></body>
+			</copy>
+   			 <ImageLoader url="images/dogs1.jpeg" name="dogs1" load="true">
+	   			 <title>
+   					 <![CDATA[Dogs 1]]>
+   				 </title>
+   			 </ImageLoader>
+   			 <ImageLoader url="images/dogs2.jpeg" name="dogs2" load="true">
+	   			 <title>
+   					 <![CDATA[Dogs 2]]>
+   				 </title>
+   			 </ImageLoader>
+   			 <ImageLoader url="images/dogs3.jpeg" name="dogs3" load="true">
+	   			 <title>
+   					 <![CDATA[Dogs 3]]>
+   				 </title>
+   			 </ImageLoader>
+	    </section>
+		<section id="sloths">
+			<copy>
+				<title><![CDATA[Sloths]]></title>
+				<body><![CDATA[lazy animals]]></body>
+			</copy>
+   			 <ImageLoader url="images/sloth1.jpeg" name="sloth1" load="true">
+	   			 <title>
+   					 <![CDATA[Sloths 1]]>
+   				 </title>
+   			 </ImageLoader>
+   			 <ImageLoader url="images/sloth2.jpeg" name="sloth2" load="true">
+	   			 <title>
+   					 <![CDATA[Sloths 2]]>
+   				 </title>
+   			 </ImageLoader>
+   			 <ImageLoader url="images/sloth3.jpeg" name="sloth3" load="true">
+	   			 <title>
+   					 <![CDATA[Sloth 3]]>
+   				 </title>
+   			 </ImageLoader>
+	    </section>
+		<section id="sharks">
+			<copy>
+				<title><![CDATA[Sharks]]></title>
+				<body><![CDATA[are dangerous]]></body>
+			</copy>
+   			 <ImageLoader url="images/shark1.jpeg" name="shark1" load="true">
+	   			 <title>
+   					 <![CDATA[Sharks 1]]>
+   				 </title>
+   			 </ImageLoader>
+   			 <ImageLoader url="images/shark2.jpeg" name="shark2" load="true">
+	   			 <title>
+   					 <![CDATA[Sharks 2]]>
+   				 </title>
+   			 </ImageLoader>
+   			 <ImageLoader url="images/shark3.jpeg" name="shark3" load="true">
+	   			 <title>
+   					 <![CDATA[Sharks 3]]>
+   				 </title>
+   			 </ImageLoader>
+	    </section>
+	</assets>
+</data>
+
